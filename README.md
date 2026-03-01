@@ -6,11 +6,11 @@ Wanted to play with shiny and also build a ML model for Rock Paper Scissors
 
 Started with these I found on the web
 
-. The Opening Move: Statistically, rock is thrown most often (35.4%), followed by scissors (34.6%) and paper (30%). Therefore, opening with paper is a solid, aggressive, and often winning strategy.
-. Win-Stay, Lose-Shift: Research shows players who lose tend to change their move, while winners often stick with their winning move.
-. If you lose: Assume your opponent will throw the same move again. Play the move that beats it.
-. If you win: Switch to the move that beats the one you just threw (e.g., if you won with paper, switch to scissors).
-. The "Same Move" Counter: If your opponent throws the same move twice in a row, they are likely to change it on the third try. Use this to anticipate their next move (e.g., if they play rock twice, they may play paper next, so throw scissors).
+### The Opening Move: Statistically, rock is thrown most often (35.4%), followed by scissors (34.6%) and paper (30%). Therefore, opening with paper is a solid, aggressive, and often winning strategy.
+### Win-Stay, Lose-Shift: Research shows players who lose tend to change their move, while winners often stick with their winning move.
+### If you lose: Assume your opponent will throw the same move again. Play the move that beats it.
+### If you win: Switch to the move that beats the one you just threw (e.g., if you won with paper, switch to scissors).
+### The "Same Move" Counter: If your opponent throws the same move twice in a row, they are likely to change it on the third try. Use this to anticipate their next move (e.g., if they play rock twice, they may play paper next, so throw scissors).
 
 ## ML
 
